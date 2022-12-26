@@ -13,6 +13,6 @@ python-slugify==1.2.0
 six==1.10.0
 sorl-thumbnail==12.3
 Unidecode==0.4.19
-wheel==0.24.0
+wheel==0.38.1
 fmoo-audiotools
 pymediainfo
